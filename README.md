@@ -6,8 +6,8 @@ Tools used : Minitab
 
 Data Exploration and Analysis - check the pdf files
 
-Datasets : Energy bills
-           AirCanada
-           JJ
+Datasets : Energy bills,
+           AirCanada,
+           Johnson and Johnson,
            Securities
 
